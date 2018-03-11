@@ -1,7 +1,5 @@
 # bertrandfritsch.github.io
 
-## Some projects
-
 * [European Union Population](/european-union-population) - [Sources](https://github.com/BertrandFritsch/data-vis/tree/european-union-population) <br />
 d3.js force-directed bubble graph to display the european union population using circles to easily compare the relative sizes of the population of a country
 
