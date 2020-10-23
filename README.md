@@ -1,4 +1,7 @@
-# bertrandfritsch.github.io
+# [bertrandfritsch.github.io](https://bertrandfritsch.github.io/)
+
+* [Collages de Catherine Jauffret](https://catherinejauffret.fr/) - [Sources](https://github.com/BertrandFritsch/catherine-jauffret) <br />
+Jamstack website build with [Gatsby](https://www.gatsbyjs.com/), [netlify](https://www.netlify.com/), [contentful](https://www.contentful.com/)
 
 * [European Union Population](/european-union-population) - [Sources](https://github.com/BertrandFritsch/data-vis/tree/european-union-population) <br />
 d3.js force-directed bubble graph to display the european union population using circles to easily compare the relative sizes of the population of a country
